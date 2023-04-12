@@ -1,7 +1,6 @@
 Grade: 96/100
 
 # Goal:
--------
 Create a ransomware that performs the following:
 [1] Generates a random alphabet table for symmetric encryption using substitution cipher.
 [2] Encrypts all .txt files to .enc files in the current directory using the key that the
