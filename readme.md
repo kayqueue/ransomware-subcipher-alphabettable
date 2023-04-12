@@ -11,4 +11,4 @@ folder but having different file extensions must not be impacted by the ransomwa
 [4] The key in step [1] is encrypted to key.bin using public key encryption. (RSA 2048)
 [5] Display a message asking for ransom “Your text files are encrypted. To decrypt them, you need to pay me $10,000 and send key.bin in your folder to {xxxx}.”
 
-# A report is written to explain the necessary information and expected outcomes of the programs.
+// A report is written to explain the necessary information and expected outcomes of the programs.
